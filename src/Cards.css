@@ -1,0 +1,86 @@
+.recipe-battle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.options-container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 100vh; /* Set a fixed height */
+  overflow: hidden; /* Hide the overflowed content */
+}
+
+.option {
+  width: 45%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+  overflow: hidden; /* Hide overflowing content */
+}
+
+.option img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.option h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.option p {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.option button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.option button:hover {
+  background-color: #0056b3;
+}
+
+.or {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  margin: 0 50px;
+}
+
+.winner {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid salmon;
+  padding: 20px;
+  box-shadow: 4px 4px salmon;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+}
+
+.winner img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.winner button {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid salmon;
+  background-color: salmon;
+  color: whitesmoke;
+}
