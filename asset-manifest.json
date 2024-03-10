@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recipe-battle/static/css/main.11e4ae5d.css",
+    "main.js": "/recipe-battle/static/js/main.14d8d08d.js",
+    "static/js/453.303ba513.chunk.js": "/recipe-battle/static/js/453.303ba513.chunk.js",
+    "index.html": "/recipe-battle/index.html",
+    "main.11e4ae5d.css.map": "/recipe-battle/static/css/main.11e4ae5d.css.map",
+    "main.14d8d08d.js.map": "/recipe-battle/static/js/main.14d8d08d.js.map",
+    "453.303ba513.chunk.js.map": "/recipe-battle/static/js/453.303ba513.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11e4ae5d.css",
+    "static/js/main.14d8d08d.js"
+  ]
+}
